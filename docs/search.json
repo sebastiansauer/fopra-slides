@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Folienskript für das Modul ‘Forschungsprojekt’",
+    "section": "",
+    "text": "Organisatorisches\nRahmen: Hallo, Forschung!"
+  },
+  {
     "objectID": "fopro-thema02.html#definition-von-wissenschaft",
     "href": "fopro-thema02.html#definition-von-wissenschaft",
     "title": "Rahmen: Hallo, Forschung!",
@@ -56,83 +63,6 @@
     "text": "Literatur\n\n\n\n\n\n\n\nWard, A. F., Duke, K., Gneezy, A., & Bos, M. W. (2017). Brain Drain: The Mere Presence of One’s Own Smartphone Reduces Available Cognitive Capacity. Journal of the Association for Consumer Research, 2(2), 140–154. https://doi.org/10.1086/691462"
   },
   {
-    "objectID": "Fopro-thema01.html#slidology",
-    "href": "Fopro-thema01.html#slidology",
-    "title": "Hinweise",
-    "section": "Slidology",
-    "text": "Slidology\n\nNavigation\nPDF-Version der Folien"
-  },
-  {
-    "objectID": "Fopro-thema01.html#was-rät-meister-yoda",
-    "href": "Fopro-thema01.html#was-rät-meister-yoda",
-    "title": "Hinweise",
-    "section": "Was rät Meister Yoda?",
-    "text": "Was rät Meister Yoda?\nMeister Yoda rät: Lesen Sie die Hinweise (Abbildung 1).\n\n\nAbbildung 1: Lesen Sie die folgenden Hinweise im eigenen Interesse"
-  },
-  {
-    "objectID": "Fopro-thema01.html#lernziele",
-    "href": "Fopro-thema01.html#lernziele",
-    "title": "Hinweise",
-    "section": "Lernziele",
-    "text": "Lernziele\n\n\n\n\n\n\nWichtig\n\n\nKurz gesagt: Sie lernen, eine echte, eigene Studie zu erstellen.\\(\\square\\)"
-  },
-  {
-    "objectID": "Fopro-thema01.html#was-muss-ich-tun-um-hier-wieder-raus-zu-kommen",
-    "href": "Fopro-thema01.html#was-muss-ich-tun-um-hier-wieder-raus-zu-kommen",
-    "title": "Hinweise",
-    "section": "Was muss ich tun, um hier wieder raus zu kommen?",
-    "text": "Was muss ich tun, um hier wieder raus zu kommen?\nFühren Sie eine eigene quantitative Studie durch:\n\n\nTheorie (Forschungsfrage, Theorien)\nPlanung (Versuchsplan, Messinstrumente)\nErhebung (Versuchspersonen untersuchen/befragen)\nAuswerten ()\nDiskutieren (Stärken und Schwächen)\nZusammenschreiben"
-  },
-  {
-    "objectID": "Fopro-thema01.html#fahrplan",
-    "href": "Fopro-thema01.html#fahrplan",
-    "title": "Hinweise",
-    "section": "Fahrplan",
-    "text": "Fahrplan\n\n\n\n\n\nflowchart LR\n  subgraph R[Rahmen]\n    direction LR\n    subgraph V[Theorie]\n      direction TB\n      E[Themawahl] --&gt; Um[Hypothesen]\n    end\n    subgraph M[Empirie]\n      direction TB\n      M1[Studiendesign] --&gt; Vis[Messinstrumente]\n      Vis --&gt; U[Stichprobe]\n      U --&gt; G[Auswertung]\n    end\n    subgraph N[Fertigstellen]\n      direction TB\n      D[Diskutieren]\n    end\n  V --&gt; M\n  M --&gt; N\n  end"
-  },
-  {
-    "objectID": "Fopro-thema01.html#beipsiel-tinder-studie",
-    "href": "Fopro-thema01.html#beipsiel-tinder-studie",
-    "title": "Hinweise",
-    "section": "Beipsiel: Tinder-Studie",
-    "text": "Beipsiel: Tinder-Studie\nFührt ein teurer Sportwagen auf einem Tinderprofil zu mehr Matchings (Daten-Erfolg?)\n\n\n\n\n\n\nflowchart LR\nA[Sportwagen auf Ihrem&lt;/br&gt; Tinder-Profil] --&gt; B[Dating-Erfolg]"
-  },
-  {
-    "objectID": "Fopro-thema01.html#beispiel-furhat-studie",
-    "href": "Fopro-thema01.html#beispiel-furhat-studie",
-    "title": "Hinweise",
-    "section": "Beispiel: Furhat-Studie",
-    "text": "Beispiel: Furhat-Studie\n\n\nNeutraler Furhat\n\n\n\n\nEmpathischer Furhat\n\n\nQuelle: Jana Kahr und Tanja Beck"
-  },
-  {
-    "objectID": "Fopro-thema01.html#projektplanung-1",
-    "href": "Fopro-thema01.html#projektplanung-1",
-    "title": "Hinweise",
-    "section": "Projektplanung",
-    "text": "Projektplanung\n\n\n\n\nTabelle 1: Grober Zeitplan für Ihre empirische Projektrarbeit\n\n\n\n\n\n\n\n\n\n\n\n\nNr\nArbeitsschritt\nZeitbedarf\nKommentar\n\n\n\n\n1\nThemawahl und Literaturarbeit\n5 Wochen\nIntegratives Sichten und Einarbeiten in Ihr Thema\n\n\n2\nVersuchsplanung\n4 Wochen\nPlanen des Forschungsdesigns inkl. der Messinstrumente\n\n\n3\nVersuchsdurchführung\n2 Wochen\nErheben der Daten\n\n\n4\nDatenauswertung\n3 Wochen\nStatistik\n\n\n5\nBerichtlegung\n3 Wochen\nZusammenschreiben und Finalisieren des Berichts"
-  },
-  {
-    "objectID": "Fopro-thema01.html#aufschieberitis",
-    "href": "Fopro-thema01.html#aufschieberitis",
-    "title": "Hinweise",
-    "section": "Aufschieberitis",
-    "text": "Aufschieberitis\n\n\n\n\n\n\nVorsicht vor Aufschieberitis\n\n\nDer häufigste Fehler in Projektarbeiten wie dieser ist, die Arbeit zu lange aufzuschieben. Das führt zu Stress gegen Ende der Projektlaufzeit - und mitunter zu (erheblichen) Qualitätseinbußen.\\(\\square\\)"
-  },
-  {
-    "objectID": "Fopro-thema01.html#lernhilfen",
-    "href": "Fopro-thema01.html#lernhilfen",
-    "title": "Hinweise",
-    "section": "Lernhilfen",
-    "text": "Lernhilfen\n\nÜberblick zu Lernhilfen\nBeispiele für gute Projektarbeiten\nAus dem Nähkästchen des Gutachters"
-  },
-  {
-    "objectID": "Fopro-thema01.html#prüfungsform-projektarbeit",
-    "href": "Fopro-thema01.html#prüfungsform-projektarbeit",
-    "title": "Hinweise",
-    "section": "Prüfungsform: Projektarbeit",
-    "text": "Prüfungsform: Projektarbeit\n\nEs handelt sich um eine Einzelarbeit.\nAllgemeine Prüfungshinweise\nHinweise zu Projekt- und Seminararbeiten\nPrüfungsvorbereitung"
-  },
-  {
     "objectID": "fopro-thema01.html#slidology",
     "href": "fopro-thema01.html#slidology",
     "title": "Hinweise",
@@ -166,6 +96,13 @@
     "title": "Hinweise",
     "section": "Fahrplan",
     "text": "Fahrplan\n\n\n\n\n\nflowchart LR\n  subgraph R[Rahmen]\n    direction LR\n    subgraph V[Theorie]\n      direction TB\n      E[Themawahl] --&gt; Um[Hypothesen]\n    end\n    subgraph M[Empirie]\n      direction TB\n      M1[Studiendesign] --&gt; Vis[Messinstrumente]\n      Vis --&gt; U[Stichprobe]\n      U --&gt; G[Auswertung]\n    end\n    subgraph N[Fertigstellen]\n      direction TB\n      D[Diskutieren]\n    end\n  V --&gt; M\n  M --&gt; N\n  end"
+  },
+  {
+    "objectID": "fopro-thema01.html#modulverlauf",
+    "href": "fopro-thema01.html#modulverlauf",
+    "title": "Hinweise",
+    "section": "Modulverlauf",
+    "text": "Modulverlauf\n\n\n\n\n\n\n\n\nNr\nKW\nDatum.Wochenstart\nThema\n\n\n\n\n1\n12\n2025-03-18\nHallo, Forschung\n\n\n2\n13\n2025-03-25\nThemawahl\n\n\n3\n14\n2025-04-01\nThemawahl\n\n\n4\n15\n2025-04-08\nWissenschaftliches Schreiben\n\n\n5\n16\n2025-04-15\nWissenschaftliches Schreiben\n\n\n6\n17\n2025-04-22\nAufholwoche\n\n\n7\n18\n2025-04-29\nBeschreiben & Erklären\n\n\n8\n19\n2025-05-06\nMessung & Erheben\n\n\n9\n20\n2025-05-13\nDatenaufbereitung\n\n\n10\n21\n2025-05-20\nDatenmodellierung - Grundlagen\n\n\n11\n22\n2025-05-27\nDatenmodellierung - Vertiefung\n\n\n12\n23\n2025-06-03\nAufholwoche\n\n\n13\n24\n2025-06-10\nAufholwoche\n\n\n14\n25\n2025-06-17\nBerichten von Statistiken\n\n\n15\n26\n2025-06-24\nOffene Stunde"
   },
   {
     "objectID": "fopro-thema01.html#beipsiel-tinder-studie",
