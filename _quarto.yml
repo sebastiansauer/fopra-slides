@@ -22,7 +22,5 @@ website:
   navbar:
     left:
       - href: fopro-thema01.qmd
-        text: Organisatorisches
       - href: fopro-thema02.qmd
-        text: Rahmen
     search: true
