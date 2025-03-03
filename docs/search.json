@@ -1,5 +1,89 @@
 [
   {
+    "objectID": "thema01.html#slidology",
+    "href": "thema01.html#slidology",
+    "title": "Hinweise",
+    "section": "Slidology",
+    "text": "Slidology\n\nNavigation\nPDF-Version der Folien"
+  },
+  {
+    "objectID": "thema01.html#was-rät-meister-yoda",
+    "href": "thema01.html#was-rät-meister-yoda",
+    "title": "Hinweise",
+    "section": "Was rät Meister Yoda?",
+    "text": "Was rät Meister Yoda?\nMeister Yoda rät: Lesen Sie die Hinweise (Abbildung 1).\n\n\nAbbildung 1: Lesen Sie die folgenden Hinweise im eigenen Interesse"
+  },
+  {
+    "objectID": "thema01.html#lernziele",
+    "href": "thema01.html#lernziele",
+    "title": "Hinweise",
+    "section": "Lernziele",
+    "text": "Lernziele\n\n\n\n\n\n\nWichtig\n\n\nKurz gesagt: Sie lernen, eine echte, eigene Studie zu erstellen.\\(\\square\\)"
+  },
+  {
+    "objectID": "thema01.html#was-muss-ich-tun-um-hier-wieder-raus-zu-kommen",
+    "href": "thema01.html#was-muss-ich-tun-um-hier-wieder-raus-zu-kommen",
+    "title": "Hinweise",
+    "section": "Was muss ich tun, um hier wieder raus zu kommen?",
+    "text": "Was muss ich tun, um hier wieder raus zu kommen?\nFühren Sie eine eigene quantitative Studie durch:\n\n\nTheorie (Forschungsfrage, Theorien)\nPlanung (Versuchsplan, Messinstrumente)\nErhebung (Versuchspersonen untersuchen/befragen)\nAuswerten ()\nDiskutieren (Stärken und Schwächen)\nZusammenschreiben"
+  },
+  {
+    "objectID": "thema01.html#fahrplan",
+    "href": "thema01.html#fahrplan",
+    "title": "Hinweise",
+    "section": "Fahrplan",
+    "text": "Fahrplan\n\n\n\n\n\nflowchart LR\n  subgraph R[Rahmen]\n    direction LR\n    subgraph V[Theorie]\n      direction TB\n      E[Themawahl] --&gt; Um[Hypothesen]\n    end\n    subgraph M[Empirie]\n      direction TB\n      M1[Studiendesign] --&gt; Vis[Messinstrumente]\n      Vis --&gt; U[Stichprobe]\n      U --&gt; G[Auswertung]\n    end\n    subgraph N[Fertigstellen]\n      direction TB\n      D[Diskutieren]\n    end\n  V --&gt; M\n  M --&gt; N\n  end"
+  },
+  {
+    "objectID": "thema01.html#modulverlauf",
+    "href": "thema01.html#modulverlauf",
+    "title": "Hinweise",
+    "section": "Modulverlauf",
+    "text": "Modulverlauf\n\n\n\n\n\n\n\n\nNr\nKW\nDatum.Wochenstart\nThema\n\n\n\n\n1\n12\n2025-03-18\nHallo, Forschung\n\n\n2\n13\n2025-03-25\nThemawahl\n\n\n3\n14\n2025-04-01\nThemawahl\n\n\n4\n15\n2025-04-08\nWissenschaftliches Schreiben\n\n\n5\n16\n2025-04-15\nWissenschaftliches Schreiben\n\n\n6\n17\n2025-04-22\nAufholwoche\n\n\n7\n18\n2025-04-29\nBeschreiben & Erklären\n\n\n8\n19\n2025-05-06\nMessung & Erheben\n\n\n9\n20\n2025-05-13\nDatenaufbereitung\n\n\n10\n21\n2025-05-20\nDatenmodellierung - Grundlagen\n\n\n11\n22\n2025-05-27\nDatenmodellierung - Vertiefung\n\n\n12\n23\n2025-06-03\nAufholwoche\n\n\n13\n24\n2025-06-10\nAufholwoche\n\n\n14\n25\n2025-06-17\nBerichten von Statistiken\n\n\n15\n26\n2025-06-24\nOffene Stunde"
+  },
+  {
+    "objectID": "thema01.html#beipsiel-tinder-studie",
+    "href": "thema01.html#beipsiel-tinder-studie",
+    "title": "Hinweise",
+    "section": "Beipsiel: Tinder-Studie",
+    "text": "Beipsiel: Tinder-Studie\nFührt ein teurer Sportwagen auf einem Tinderprofil zu mehr Matchings (Daten-Erfolg?)\n\n\n\n\n\n\nflowchart LR\nA[Sportwagen auf Ihrem&lt;/br&gt; Tinder-Profil] --&gt; B[Dating-Erfolg]"
+  },
+  {
+    "objectID": "thema01.html#beispiel-furhat-studie",
+    "href": "thema01.html#beispiel-furhat-studie",
+    "title": "Hinweise",
+    "section": "Beispiel: Furhat-Studie",
+    "text": "Beispiel: Furhat-Studie\n\n\nNeutraler Furhat\n\n\n\n\nEmpathischer Furhat\n\n\nQuelle: Jana Kahr und Tanja Beck"
+  },
+  {
+    "objectID": "thema01.html#projektplanung-1",
+    "href": "thema01.html#projektplanung-1",
+    "title": "Hinweise",
+    "section": "Projektplanung",
+    "text": "Projektplanung\n\n\n\n\nTabelle 1: Grober Zeitplan für Ihre empirische Projektrarbeit\n\n\n\n\n\n\n\n\n\n\n\n\nNr\nArbeitsschritt\nZeitbedarf\nKommentar\n\n\n\n\n1\nThemawahl und Literaturarbeit\n5 Wochen\nIntegratives Sichten und Einarbeiten in Ihr Thema\n\n\n2\nVersuchsplanung\n4 Wochen\nPlanen des Forschungsdesigns inkl. der Messinstrumente\n\n\n3\nVersuchsdurchführung\n2 Wochen\nErheben der Daten\n\n\n4\nDatenauswertung\n3 Wochen\nStatistik\n\n\n5\nBerichtlegung\n3 Wochen\nZusammenschreiben und Finalisieren des Berichts"
+  },
+  {
+    "objectID": "thema01.html#aufschieberitis",
+    "href": "thema01.html#aufschieberitis",
+    "title": "Hinweise",
+    "section": "Aufschieberitis",
+    "text": "Aufschieberitis\n\n\n\n\n\n\nVorsicht vor Aufschieberitis\n\n\nDer häufigste Fehler in Projektarbeiten wie dieser ist, die Arbeit zu lange aufzuschieben. Das führt zu Stress gegen Ende der Projektlaufzeit - und mitunter zu (erheblichen) Qualitätseinbußen.\\(\\square\\)"
+  },
+  {
+    "objectID": "thema01.html#lernhilfen",
+    "href": "thema01.html#lernhilfen",
+    "title": "Hinweise",
+    "section": "Lernhilfen",
+    "text": "Lernhilfen\n\nÜberblick zu Lernhilfen\nBeispiele für gute Projektarbeiten\nAus dem Nähkästchen des Gutachters"
+  },
+  {
+    "objectID": "thema01.html#prüfungsform-projektarbeit",
+    "href": "thema01.html#prüfungsform-projektarbeit",
+    "title": "Hinweise",
+    "section": "Prüfungsform: Projektarbeit",
+    "text": "Prüfungsform: Projektarbeit\n\nEs handelt sich um eine Einzelarbeit.\nAllgemeine Prüfungshinweise\nHinweise zu Projekt- und Seminararbeiten\nPrüfungsvorbereitung"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Folienskript für das Modul ‘Forschungsprojekt’",
@@ -7,143 +91,59 @@
     "text": "Organisatorisches\nRahmen: Hallo, Forschung!"
   },
   {
-    "objectID": "fopro-thema02.html#definition-von-wissenschaft",
-    "href": "fopro-thema02.html#definition-von-wissenschaft",
+    "objectID": "thema02.html#definition-von-wissenschaft",
+    "href": "thema02.html#definition-von-wissenschaft",
     "title": "Rahmen: Hallo, Forschung!",
     "section": "Definition von Wissenschaft",
     "text": "Definition von Wissenschaft\n\nDefinition 1 (Wissenschaft) Wissenschaft ist ein systematisches Unterfangen, das Wissen erzeugt und organisiert, primär in Form von testbaren Erklärungen über beobachtbare Phänomene. \\(\\square\\)\n\n\nDefinition 2 (Theorie) Die Wissenschaft organisiert ihr Wissen in Theorien. Theorien sind ein Bündel von Aussagen. Diese Aussagen sind\n\naufeinander bezogen\nwiderspruchsfrei\nhäufig Kausalaussagen\nprüfbar \\(\\square\\)"
   },
   {
-    "objectID": "fopro-thema02.html#eigenschaften-von-wissenschaft",
-    "href": "fopro-thema02.html#eigenschaften-von-wissenschaft",
+    "objectID": "thema02.html#eigenschaften-von-wissenschaft",
+    "href": "thema02.html#eigenschaften-von-wissenschaft",
     "title": "Rahmen: Hallo, Forschung!",
     "section": "Eigenschaften von Wissenschaft",
     "text": "Eigenschaften von Wissenschaft\n\nObjektivität\nAbstraktion\nAnalyse\nEvidenzgründung\nQuellen"
   },
   {
-    "objectID": "fopro-thema02.html#viele-wissenschaftliche-aussagen-sind-kausal",
-    "href": "fopro-thema02.html#viele-wissenschaftliche-aussagen-sind-kausal",
+    "objectID": "thema02.html#viele-wissenschaftliche-aussagen-sind-kausal",
+    "href": "thema02.html#viele-wissenschaftliche-aussagen-sind-kausal",
     "title": "Rahmen: Hallo, Forschung!",
     "section": "Viele wissenschaftliche Aussagen sind kausal",
     "text": "Viele wissenschaftliche Aussagen sind kausal\nViele wissenschaftlichen Hypothesen sind Aussagen von der Art\n\nX führt zu Y.\n\n\n\n\n\n\n\ngraph LR\n  X --&gt; Y"
   },
   {
-    "objectID": "fopro-thema02.html#handy-auf-dem-tisch-macht-dumm",
-    "href": "fopro-thema02.html#handy-auf-dem-tisch-macht-dumm",
+    "objectID": "thema02.html#handy-auf-dem-tisch-macht-dumm",
+    "href": "thema02.html#handy-auf-dem-tisch-macht-dumm",
     "title": "Rahmen: Hallo, Forschung!",
     "section": "Handy auf dem Tisch macht dumm?",
     "text": "Handy auf dem Tisch macht dumm?\nForschungsfrage von Ward et al. (2017):\n\n\n\n\n\n\ngraph LR\n  H[Handyort] --&gt; R[Mentale Ressourcen]\n\n\n\n\n\n\n\n\n\nAbbildung 1: Handy in Sichtweite verringert die kognitiven Ressourcen, Ward et al. (2017), S. 145"
   },
   {
-    "objectID": "fopro-thema02.html#ein-prozess-der-forschung",
-    "href": "fopro-thema02.html#ein-prozess-der-forschung",
+    "objectID": "thema02.html#ein-prozess-der-forschung",
+    "href": "thema02.html#ein-prozess-der-forschung",
     "title": "Rahmen: Hallo, Forschung!",
     "section": "Ein Prozess der Forschung",
     "text": "Ein Prozess der Forschung\n\n\n\n\n\n\ngraph LR\n  FF[Forschungsfage] --&gt; L[Literaturrecherche]\n  L --&gt; V[Versuchsplanung]\n  V --&gt; E[Datenerhebung]\n  E --&gt; DA[Datenanalyse]\n  DA --&gt; I[Interpretation]\n  I --&gt; F"
   },
   {
-    "objectID": "fopro-thema02.html#reproduzierbarkeit",
-    "href": "fopro-thema02.html#reproduzierbarkeit",
+    "objectID": "thema02.html#reproduzierbarkeit",
+    "href": "thema02.html#reproduzierbarkeit",
     "title": "Rahmen: Hallo, Forschung!",
     "section": "Reproduzierbarkeit",
     "text": "Reproduzierbarkeit\n\nDefinition 3 (Reproduzierbarkeit) Reproduzierbarkeit (“Wiederholbarkeit”) ist das Vermögen, eine Analyse durch Dritte zu wiederholen und zu einem ähnlichen (gleichen) Ergebnis wie in der ursprünglichen Analyse zu bekommen. \\(\\square\\)\n\n\n\n\n\n\n\nWichtig\n\n\nLegen Sie alle Teile Ihrer Analyse offen: Daten, Analyseskript, Messinstrumente, Sonstiges. \\(\\square\\)"
   },
   {
-    "objectID": "fopro-thema02.html#slidology",
-    "href": "fopro-thema02.html#slidology",
+    "objectID": "thema02.html#slidology",
+    "href": "thema02.html#slidology",
     "title": "Rahmen: Hallo, Forschung!",
     "section": "Slidology",
     "text": "Slidology\n\nNavigation in den Folien\nPDF-Version der Folien"
   },
   {
-    "objectID": "fopro-thema02.html#literatur",
-    "href": "fopro-thema02.html#literatur",
+    "objectID": "thema02.html#literatur",
+    "href": "thema02.html#literatur",
     "title": "Rahmen: Hallo, Forschung!",
     "section": "Literatur",
     "text": "Literatur\n\n\n\n\n\n\n\nWard, A. F., Duke, K., Gneezy, A., & Bos, M. W. (2017). Brain Drain: The Mere Presence of One’s Own Smartphone Reduces Available Cognitive Capacity. Journal of the Association for Consumer Research, 2(2), 140–154. https://doi.org/10.1086/691462"
-  },
-  {
-    "objectID": "fopro-thema01.html#slidology",
-    "href": "fopro-thema01.html#slidology",
-    "title": "Hinweise",
-    "section": "Slidology",
-    "text": "Slidology\n\nNavigation\nPDF-Version der Folien"
-  },
-  {
-    "objectID": "fopro-thema01.html#was-rät-meister-yoda",
-    "href": "fopro-thema01.html#was-rät-meister-yoda",
-    "title": "Hinweise",
-    "section": "Was rät Meister Yoda?",
-    "text": "Was rät Meister Yoda?\nMeister Yoda rät: Lesen Sie die Hinweise (Abbildung 1).\n\n\nAbbildung 1: Lesen Sie die folgenden Hinweise im eigenen Interesse"
-  },
-  {
-    "objectID": "fopro-thema01.html#lernziele",
-    "href": "fopro-thema01.html#lernziele",
-    "title": "Hinweise",
-    "section": "Lernziele",
-    "text": "Lernziele\n\n\n\n\n\n\nWichtig\n\n\nKurz gesagt: Sie lernen, eine echte, eigene Studie zu erstellen.\\(\\square\\)"
-  },
-  {
-    "objectID": "fopro-thema01.html#was-muss-ich-tun-um-hier-wieder-raus-zu-kommen",
-    "href": "fopro-thema01.html#was-muss-ich-tun-um-hier-wieder-raus-zu-kommen",
-    "title": "Hinweise",
-    "section": "Was muss ich tun, um hier wieder raus zu kommen?",
-    "text": "Was muss ich tun, um hier wieder raus zu kommen?\nFühren Sie eine eigene quantitative Studie durch:\n\n\nTheorie (Forschungsfrage, Theorien)\nPlanung (Versuchsplan, Messinstrumente)\nErhebung (Versuchspersonen untersuchen/befragen)\nAuswerten ()\nDiskutieren (Stärken und Schwächen)\nZusammenschreiben"
-  },
-  {
-    "objectID": "fopro-thema01.html#fahrplan",
-    "href": "fopro-thema01.html#fahrplan",
-    "title": "Hinweise",
-    "section": "Fahrplan",
-    "text": "Fahrplan\n\n\n\n\n\nflowchart LR\n  subgraph R[Rahmen]\n    direction LR\n    subgraph V[Theorie]\n      direction TB\n      E[Themawahl] --&gt; Um[Hypothesen]\n    end\n    subgraph M[Empirie]\n      direction TB\n      M1[Studiendesign] --&gt; Vis[Messinstrumente]\n      Vis --&gt; U[Stichprobe]\n      U --&gt; G[Auswertung]\n    end\n    subgraph N[Fertigstellen]\n      direction TB\n      D[Diskutieren]\n    end\n  V --&gt; M\n  M --&gt; N\n  end"
-  },
-  {
-    "objectID": "fopro-thema01.html#modulverlauf",
-    "href": "fopro-thema01.html#modulverlauf",
-    "title": "Hinweise",
-    "section": "Modulverlauf",
-    "text": "Modulverlauf\n\n\n\n\n\n\n\n\nNr\nKW\nDatum.Wochenstart\nThema\n\n\n\n\n1\n12\n2025-03-18\nHallo, Forschung\n\n\n2\n13\n2025-03-25\nThemawahl\n\n\n3\n14\n2025-04-01\nThemawahl\n\n\n4\n15\n2025-04-08\nWissenschaftliches Schreiben\n\n\n5\n16\n2025-04-15\nWissenschaftliches Schreiben\n\n\n6\n17\n2025-04-22\nAufholwoche\n\n\n7\n18\n2025-04-29\nBeschreiben & Erklären\n\n\n8\n19\n2025-05-06\nMessung & Erheben\n\n\n9\n20\n2025-05-13\nDatenaufbereitung\n\n\n10\n21\n2025-05-20\nDatenmodellierung - Grundlagen\n\n\n11\n22\n2025-05-27\nDatenmodellierung - Vertiefung\n\n\n12\n23\n2025-06-03\nAufholwoche\n\n\n13\n24\n2025-06-10\nAufholwoche\n\n\n14\n25\n2025-06-17\nBerichten von Statistiken\n\n\n15\n26\n2025-06-24\nOffene Stunde"
-  },
-  {
-    "objectID": "fopro-thema01.html#beipsiel-tinder-studie",
-    "href": "fopro-thema01.html#beipsiel-tinder-studie",
-    "title": "Hinweise",
-    "section": "Beipsiel: Tinder-Studie",
-    "text": "Beipsiel: Tinder-Studie\nFührt ein teurer Sportwagen auf einem Tinderprofil zu mehr Matchings (Daten-Erfolg?)\n\n\n\n\n\n\nflowchart LR\nA[Sportwagen auf Ihrem&lt;/br&gt; Tinder-Profil] --&gt; B[Dating-Erfolg]"
-  },
-  {
-    "objectID": "fopro-thema01.html#beispiel-furhat-studie",
-    "href": "fopro-thema01.html#beispiel-furhat-studie",
-    "title": "Hinweise",
-    "section": "Beispiel: Furhat-Studie",
-    "text": "Beispiel: Furhat-Studie\n\n\nNeutraler Furhat\n\n\n\n\nEmpathischer Furhat\n\n\nQuelle: Jana Kahr und Tanja Beck"
-  },
-  {
-    "objectID": "fopro-thema01.html#projektplanung-1",
-    "href": "fopro-thema01.html#projektplanung-1",
-    "title": "Hinweise",
-    "section": "Projektplanung",
-    "text": "Projektplanung\n\n\n\n\nTabelle 1: Grober Zeitplan für Ihre empirische Projektrarbeit\n\n\n\n\n\n\n\n\n\n\n\n\nNr\nArbeitsschritt\nZeitbedarf\nKommentar\n\n\n\n\n1\nThemawahl und Literaturarbeit\n5 Wochen\nIntegratives Sichten und Einarbeiten in Ihr Thema\n\n\n2\nVersuchsplanung\n4 Wochen\nPlanen des Forschungsdesigns inkl. der Messinstrumente\n\n\n3\nVersuchsdurchführung\n2 Wochen\nErheben der Daten\n\n\n4\nDatenauswertung\n3 Wochen\nStatistik\n\n\n5\nBerichtlegung\n3 Wochen\nZusammenschreiben und Finalisieren des Berichts"
-  },
-  {
-    "objectID": "fopro-thema01.html#aufschieberitis",
-    "href": "fopro-thema01.html#aufschieberitis",
-    "title": "Hinweise",
-    "section": "Aufschieberitis",
-    "text": "Aufschieberitis\n\n\n\n\n\n\nVorsicht vor Aufschieberitis\n\n\nDer häufigste Fehler in Projektarbeiten wie dieser ist, die Arbeit zu lange aufzuschieben. Das führt zu Stress gegen Ende der Projektlaufzeit - und mitunter zu (erheblichen) Qualitätseinbußen.\\(\\square\\)"
-  },
-  {
-    "objectID": "fopro-thema01.html#lernhilfen",
-    "href": "fopro-thema01.html#lernhilfen",
-    "title": "Hinweise",
-    "section": "Lernhilfen",
-    "text": "Lernhilfen\n\nÜberblick zu Lernhilfen\nBeispiele für gute Projektarbeiten\nAus dem Nähkästchen des Gutachters"
-  },
-  {
-    "objectID": "fopro-thema01.html#prüfungsform-projektarbeit",
-    "href": "fopro-thema01.html#prüfungsform-projektarbeit",
-    "title": "Hinweise",
-    "section": "Prüfungsform: Projektarbeit",
-    "text": "Prüfungsform: Projektarbeit\n\nEs handelt sich um eine Einzelarbeit.\nAllgemeine Prüfungshinweise\nHinweise zu Projekt- und Seminararbeiten\nPrüfungsvorbereitung"
   }
 ]

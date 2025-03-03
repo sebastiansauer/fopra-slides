@@ -5,5 +5,5 @@ author: Sebastian Sauer
 ---
 
 
-1. [Organisatorisches](https://sebastiansauer.github.io/fopra-slides/Fopro-Thema01.html#/title-slide)
-2. [Rahmen: Hallo, Forschung!]()
+1. [Organisatorisches](https://sebastiansauer.github.io/fopra-slides/thema01.html#/title-slide)
+2. [Rahmen: Hallo, Forschung!](https://sebastiansauer.github.io/fopra-slides/thema02.html#/title-slide)

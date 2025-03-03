@@ -18,9 +18,7 @@ format:
 
 website:
   sidebar:
-      search: true
-  navbar:
     left:
-      - href: fopro-thema01.qmd
-      - href: fopro-thema02.qmd
+      - href: thema01.qmd
+      - href: thema02.qmd
     search: true
