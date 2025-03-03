@@ -1,5 +1,7 @@
 project:
   title: "fopra-slides"
+  type: website
+  output-dir: docs
 
 
 

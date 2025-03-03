@@ -1,0 +1,207 @@
+---
+title: "Hinweise"
+subtitle: "Thema 01, Forschungsprojekt"
+date: last-modified
+lang: de-De
+author:
+  - name: Sebastian Sauer
+    orcid: 0000-0003-1515-8348
+    email: sebastian.sauer@hs-ansbach.de
+    affiliations: HS Ansbach
+format:
+  clean-revealjs:
+    slide-number: c/t
+    embed-resources: true
+    mermaid:
+      theme: neutral
+
+from: markdown+emoji
+---
+
+
+# Organisatorisches
+
+
+## Slidology
+
+- [Navigation](https://quarto.org/docs/presentations/revealjs/presenting.html#navigation-menu)
+
+- [PDF-Version der Folien](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf)
+
+
+## Was rät Meister Yoda?
+
+
+Meister Yoda rät: Lesen Sie die Hinweise (@fig-yoda).
+
+![Lesen Sie die folgenden Hinweise im eigenen Interesse](../fopra/img/yoda.jpg){#fig-yoda width="33%"}
+
+
+## Lernziele
+
+
+:::{.callout-important}
+Kurz gesagt: Sie lernen, eine echte, eigene Studie zu erstellen.$\square$
+:::
+
+## Was muss ich tun, um hier wieder raus zu kommen?
+
+
+
+Führen Sie eine eigene quantitative Studie durch:
+
+</br>
+
+- Theorie (Forschungsfrage, Theorien)
+- Planung (Versuchsplan, Messinstrumente)
+- Erhebung (Versuchspersonen untersuchen/befragen)
+- Auswerten ({{< fa brands r-project >}})
+- Diskutieren (Stärken und Schwächen)
+- Zusammenschreiben
+
+
+
+## Fahrplan
+
+
+```{mermaid}
+%%| echo: false
+%%| fig-width: 2
+flowchart LR
+  subgraph R[Rahmen]
+    direction LR
+    subgraph V[Theorie]
+      direction TB
+      E[Themawahl] --> Um[Hypothesen]
+    end
+    subgraph M[Empirie]
+      direction TB
+      M1[Studiendesign] --> Vis[Messinstrumente]
+      Vis --> U[Stichprobe]
+      U --> G[Auswertung]
+    end
+    subgraph N[Fertigstellen]
+      direction TB
+      D[Diskutieren]
+    end
+  V --> M
+  M --> N
+  end
+```
+
+
+
+# Wie kann Ihr Studie aussehen?
+
+
+## Tinder-Studie
+
+<center>
+
+```{mermaid}
+flowchart LR
+A[Sportwagen auf Ihrem</br> Tinder-Profil] --> B[Dating-Erfolg]
+```
+
+</center>
+
+## Furhat-Studie
+
+
+:::: {.columns}
+
+::: {.column  width="40%"}
+
+[*Neutraler Furhat*](https://youtube.com/shorts/qQ9C9TtBQDw)
+
+{{< video https://youtu.be/TSrlrUN6Zj4?si=Yf7oU5OlGfUzYpwS width=320 height = 512 >}}
+ 
+
+:::
+
+::: {.column width="10%"}
+
+
+:::
+
+
+
+::: {.column  width="40%"}
+
+[*Empathischer Furhat*](https://www.youtube.com/watch?v=qQ9C9TtBQDw)
+
+{{< video https://youtu.be/qQ9C9TtBQDw?si=kZDjsyLQwqDFFaln width=320 height = 512 >}}
+
+
+:::
+
+::::
+
+Quelle: Jana Kahr und Tanja Beck
+
+
+
+# Projektplanung
+
+
+
+
+## Projektplanung
+
+
+
+
+```{r}
+#| echo: false
+#| tbl-cap: "Grober Zeitplan für Ihre empirische Projektrarbeit"
+#| label: tbl-zeitplan
+#| out-width: 100%
+
+d <- tibble::tribble(
+  ~Nr, ~Arbeitsschritt, ~Zeitbedarf, ~Kommentar,
+  "1", "Themawahl und Literaturarbeit", "5 Wochen", "Integratives Sichten und Einarbeiten in Ihr Thema",
+  "2", "Versuchsplanung", "4 Wochen", "Planen des Forschungsdesigns inkl. der Messinstrumente",
+  "3", "Versuchsdurchführung", "2 Wochen", "Erheben der Daten",
+  "4", "Datenauswertung", "3 Wochen", "Statistik",
+  "5", "Berichtlegung", "3 Wochen", "Zusammenschreiben und Finalisieren des Berichts"
+)
+knitr::kable(d)
+```
+
+
+## Aufschieberitis
+
+
+:::{.callout-caution}
+### Vorsicht vor Aufschieberitis
+Der häufigste Fehler in Projektarbeiten wie dieser ist, die Arbeit zu lange aufzuschieben.
+Das führt zu Stress gegen Ende der Projektlaufzeit - und mitunter zu (erheblichen) Qualitätseinbußen.$\square$
+:::
+
+
+## Lernhilfen
+
+
+- [Überblick zu Lernhilfen](https://hinweisbuch.netlify.app/160-hinweise-lernhilfen-frame#lernmethoden)
+
+- [Beispiele für gute Projektarbeiten](https://hinweisbuch.netlify.app/160-hinweise-lernhilfen-frame#lernmethoden)
+
+- [Aus dem Nähkästchen des Gutachters](https://hinweisbuch.netlify.app/165-hinweise-thesis-frame#aus-dem-n%C3%A4hk%C3%A4stchen-des-gutachters)
+
+
+# Prüfung
+
+
+## Prüfungsform: Projektarbeit
+
+- Es handelt sich um eine *Einzelarbeit.*
+
+
+- [Allgemeine Prüfungshinweise](https://hinweisbuch.netlify.app/010-hinweise-pruefung-allgemein-frame)
+
+
+- [Hinweise zu Projekt- und Seminararbeiten](https://hinweisbuch.netlify.app/060-hinweise-pruefung-projektarbeit-frame)
+
+
+- [Prüfungsvorbereitung](https://hinweisbuch.netlify.app/150-hinweise-pruefungsvorbereitung-frame)
+

@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Folienskript für das Modul ‘Forschungsprojekt’",
+    "section": "",
+    "text": "Organisatorisches\nRahmen: Hallo, Forschung!"
+  },
+  {
+    "objectID": "Fopro-Thema01.html#slidology",
+    "href": "Fopro-Thema01.html#slidology",
+    "title": "Hinweise",
+    "section": "Slidology",
+    "text": "Slidology\n\nNavigation\nPDF-Version der Folien"
+  },
+  {
+    "objectID": "Fopro-Thema01.html#was-rät-meister-yoda",
+    "href": "Fopro-Thema01.html#was-rät-meister-yoda",
+    "title": "Hinweise",
+    "section": "Was rät Meister Yoda?",
+    "text": "Was rät Meister Yoda?\nMeister Yoda rät: Lesen Sie die Hinweise (Abbildung 1).\n\n\nAbbildung 1: Lesen Sie die folgenden Hinweise im eigenen Interesse"
+  },
+  {
+    "objectID": "Fopro-Thema01.html#lernziele",
+    "href": "Fopro-Thema01.html#lernziele",
+    "title": "Hinweise",
+    "section": "Lernziele",
+    "text": "Lernziele\n\n\n\n\n\n\nWichtig\n\n\nKurz gesagt: Sie lernen, eine echte, eigene Studie zu erstellen.\\(\\square\\)"
+  },
+  {
+    "objectID": "Fopro-Thema01.html#was-muss-ich-tun-um-hier-wieder-raus-zu-kommen",
+    "href": "Fopro-Thema01.html#was-muss-ich-tun-um-hier-wieder-raus-zu-kommen",
+    "title": "Hinweise",
+    "section": "Was muss ich tun, um hier wieder raus zu kommen?",
+    "text": "Was muss ich tun, um hier wieder raus zu kommen?\nFühren Sie eine eigene quantitative Studie durch:\n\n\nTheorie (Forschungsfrage, Theorien)\nPlanung (Versuchsplan, Messinstrumente)\nErhebung (Versuchspersonen untersuchen/befragen)\nAuswerten ()\nDiskutieren (Stärken und Schwächen)\nZusammenschreiben"
+  },
+  {
+    "objectID": "Fopro-Thema01.html#fahrplan",
+    "href": "Fopro-Thema01.html#fahrplan",
+    "title": "Hinweise",
+    "section": "Fahrplan",
+    "text": "Fahrplan\n\n\n\n\n\nflowchart LR\n  subgraph R[Rahmen]\n    direction LR\n    subgraph V[Theorie]\n      direction TB\n      E[Themawahl] --&gt; Um[Hypothesen]\n    end\n    subgraph M[Empirie]\n      direction TB\n      M1[Studiendesign] --&gt; Vis[Messinstrumente]\n      Vis --&gt; U[Stichprobe]\n      U --&gt; G[Auswertung]\n    end\n    subgraph N[Fertigstellen]\n      direction TB\n      D[Diskutieren]\n    end\n  V --&gt; M\n  M --&gt; N\n  end"
+  },
+  {
+    "objectID": "Fopro-Thema01.html#tinder-studie",
+    "href": "Fopro-Thema01.html#tinder-studie",
+    "title": "Hinweise",
+    "section": "Tinder-Studie",
+    "text": "Tinder-Studie\n\n\n\n\n\n\nflowchart LR\nA[Sportwagen auf Ihrem&lt;/br&gt; Tinder-Profil] --&gt; B[Dating-Erfolg]"
+  },
+  {
+    "objectID": "Fopro-Thema01.html#furhat-studie",
+    "href": "Fopro-Thema01.html#furhat-studie",
+    "title": "Hinweise",
+    "section": "Furhat-Studie",
+    "text": "Furhat-Studie\n\n\nNeutraler Furhat\n\n\n\n\nEmpathischer Furhat\n\n\nQuelle: Jana Kahr und Tanja Beck"
+  },
+  {
+    "objectID": "Fopro-Thema01.html#projektplanung-1",
+    "href": "Fopro-Thema01.html#projektplanung-1",
+    "title": "Hinweise",
+    "section": "Projektplanung",
+    "text": "Projektplanung\n\n\n\n\nTabelle 1: Grober Zeitplan für Ihre empirische Projektrarbeit\n\n\n\n\n\n\n\n\n\n\n\n\nNr\nArbeitsschritt\nZeitbedarf\nKommentar\n\n\n\n\n1\nThemawahl und Literaturarbeit\n5 Wochen\nIntegratives Sichten und Einarbeiten in Ihr Thema\n\n\n2\nVersuchsplanung\n4 Wochen\nPlanen des Forschungsdesigns inkl. der Messinstrumente\n\n\n3\nVersuchsdurchführung\n2 Wochen\nErheben der Daten\n\n\n4\nDatenauswertung\n3 Wochen\nStatistik\n\n\n5\nBerichtlegung\n3 Wochen\nZusammenschreiben und Finalisieren des Berichts"
+  },
+  {
+    "objectID": "Fopro-Thema01.html#aufschieberitis",
+    "href": "Fopro-Thema01.html#aufschieberitis",
+    "title": "Hinweise",
+    "section": "Aufschieberitis",
+    "text": "Aufschieberitis\n\n\n\n\n\n\nVorsicht vor Aufschieberitis\n\n\nDer häufigste Fehler in Projektarbeiten wie dieser ist, die Arbeit zu lange aufzuschieben. Das führt zu Stress gegen Ende der Projektlaufzeit - und mitunter zu (erheblichen) Qualitätseinbußen.\\(\\square\\)"
+  },
+  {
+    "objectID": "Fopro-Thema01.html#lernhilfen",
+    "href": "Fopro-Thema01.html#lernhilfen",
+    "title": "Hinweise",
+    "section": "Lernhilfen",
+    "text": "Lernhilfen\n\nÜberblick zu Lernhilfen\nBeispiele für gute Projektarbeiten\nAus dem Nähkästchen des Gutachters"
+  },
+  {
+    "objectID": "Fopro-Thema01.html#prüfungsform-projektarbeit",
+    "href": "Fopro-Thema01.html#prüfungsform-projektarbeit",
+    "title": "Hinweise",
+    "section": "Prüfungsform: Projektarbeit",
+    "text": "Prüfungsform: Projektarbeit\n\nEs handelt sich um eine Einzelarbeit.\nAllgemeine Prüfungshinweise\nHinweise zu Projekt- und Seminararbeiten\nPrüfungsvorbereitung"
+  }
+]

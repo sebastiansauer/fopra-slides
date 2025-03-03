@@ -1,0 +1,9 @@
+---
+title: "Folienskript für das Modul 'Forschungsprojekt'"
+format: html
+author: Sebastian Sauer
+---
+
+
+1. [Organisatorisches]()
+2. [Rahmen: Hallo, Forschung!]()

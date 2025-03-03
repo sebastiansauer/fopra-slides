@@ -2,7 +2,52 @@
 .Rhistory
 .RData
 .Ruserdata
-.Rdata
-.httr-oauth
-.DS_Store
-.quarto
+
+/.quarto/
+
+# built pages and cache:
+*_cache/
+*_freeze/
+
+
+# tex stuff:
+*.aux
+*.log
+tikz*.*
+
+
+# trials:
+test*.*
+test.*
+
+
+# backups:
+_book Kopie/
+
+
+# not epub and not pdf book:
+
+_book/*.pdf
+_book/*.epub
+index.tex
+Statistik1.tex
+luatex*/
+
+
+# not for disclosure:
+
+_private/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
