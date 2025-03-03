@@ -94,7 +94,9 @@ flowchart LR
 # Wie kann Ihr Studie aussehen?
 
 
-## Tinder-Studie
+## Beipsiel: Tinder-Studie
+
+Führt ein teurer Sportwagen auf einem Tinderprofil zu mehr Matchings (Daten-Erfolg?)
 
 <center>
 
@@ -105,7 +107,7 @@ A[Sportwagen auf Ihrem</br> Tinder-Profil] --> B[Dating-Erfolg]
 
 </center>
 
-## Furhat-Studie
+## Beispiel: Furhat-Studie
 
 
 :::: {.columns}

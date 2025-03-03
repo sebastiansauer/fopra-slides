@@ -3,5 +3,13 @@ project:
   type: website
   output-dir: docs
 
+bibliography: specifics/bib-local.bib
+csl: specifics/apa7.csl
 
 
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
